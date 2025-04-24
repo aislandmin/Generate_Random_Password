@@ -12,7 +12,7 @@ password
 ## Password Generation 
 o Based on user input, randomly generate a password of the specified length and the character type. 
 o Ensure that the program is not biased in choosing a certain character or number. 
-• After the password has been generated, ask the user if he wants to generate more password of the same type or not. If he types Y then generate a new password of the same type. End the program, only when the user type in exit, either upper case or lower case. 
+o After the password has been generated, ask the user if he wants to generate more password of the same type or not. If he types Y then generate a new password of the same type. End the program, only when the user type in exit, either upper case or lower case. 
 
 ## Output
 o Display the generated password to the user on the console
